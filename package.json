@@ -15,7 +15,7 @@
     "commander": "^2.9.0",
     "connect": "~2.9.0",
     "event-proxy": "0.0.1",
-    "git-emit": "0.0.0",
+    "git-emit": "substack/node-git-emit#master",
     "mkdirp": "^0.5.1",
     "pushover": "^1.3.6"
   },
